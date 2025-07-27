@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#range::-moz-range-thumb{
+    background-color: rgb(255,255,255);
+    border: none;
+}
+
+    
