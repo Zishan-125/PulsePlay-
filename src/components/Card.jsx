@@ -1,4 +1,5 @@
 import React, { useContext } from 'react'
+import { MdOutlinePlaylistRemove } from "react-icons/md";
 import { songsData } from '../songs'
 import { MdPlaylistAdd } from "react-icons/md";              // প্লেলিস্টে গান যোগ করার আইকন
 import { GoHeart } from "react-icons/go";                    // লাইক করার আইকন (ফাঁকা হার্ট)
